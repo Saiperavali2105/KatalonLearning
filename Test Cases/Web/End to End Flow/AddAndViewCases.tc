@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddAndViewCases</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2545fe2-4747-4087-99a8-b4bf2a387725</testCaseGuid>
+   <variable>
+      <defaultValue>'Case123'</defaultValue>
+      <description></description>
+      <id>026bebab-22ea-4730-8962-ce252af187d4</id>
+      <masked>false</masked>
+      <name>casetitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Case 123 description'</defaultValue>
+      <description></description>
+      <id>95ba34e9-2042-440a-bdd7-ddbe5f9780b7</id>
+      <masked>false</masked>
+      <name>casedescription</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>9e7b7c33-6cce-4ddf-b1ad-7b31bf3beb49</id>
+      <masked>false</masked>
+      <name>casevalue</name>
+   </variable>
+</TestCaseEntity>

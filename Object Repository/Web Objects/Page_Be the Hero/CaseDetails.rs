@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CaseDetails</name>
+   <tag></tag>
+   <elementGuidId>067b335a-0fd5-41ee-9d81-e3f84729fefc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d709b39f-fef2-4b95-bc04-83de0cde787b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CASE:testDESCRIPTIONtestVALUE:R$ 32,00</value>
+      <webElementGuid>566b04b9-88d2-49f3-b703-270206f52973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;profile-container&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>ce0e46ef-c228-4435-b2ed-125cd15ba1d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/ul/li</value>
+      <webElementGuid>1a03224d-7e64-4a7c-bdbb-cae6563acb1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registered Cases'])[1]/following::li[1]</value>
+      <webElementGuid>47ed76cc-49bd-4f1e-a650-784dd1b92468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account details'])[1]/following::li[1]</value>
+      <webElementGuid>bc1c6548-dbc9-4d12-9938-5f852f1acecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>4d4ede83-d095-4e3d-8993-738e991396b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'CASE:testDESCRIPTIONtestVALUE:R$ 32,00' or . = 'CASE:testDESCRIPTIONtestVALUE:R$ 32,00')]</value>
+      <webElementGuid>c8dc5612-41d5-43fd-9cad-790f38ca67b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

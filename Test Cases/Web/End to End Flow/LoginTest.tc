@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd85762f-1865-4ad0-acce-3c2f1bf5d6fd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bc5377a-408a-4796-a83b-c95ab090d7f4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5540fc08'</defaultValue>
+      <description></description>
+      <id>0bc5377a-408a-4796-a83b-c95ab090d7f4</id>
+      <masked>false</masked>
+      <name>loginId</name>
+   </variable>
+</TestCaseEntity>

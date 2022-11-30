@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Give the city as empty and verify the error message</description>
+   <name>RegisterWithEmptyCity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d8ad136-4918-481b-b833-0735ef6bf2c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign up with new user and add case and verify whether the added case is reflecting or not ( Signup -> Login -> View cases / there should be 0 cases -> Add case -> view case -> Logout )</description>
+   <name>AddNewUser_AddCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>711e981c-719e-4f1a-a337-43b566480e18</testCaseGuid>
+</TestCaseEntity>

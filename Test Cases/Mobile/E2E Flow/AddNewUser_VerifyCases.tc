@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Sign up with new user and verify whether 0 cases is available in home page or not ( Signup -> Login -> View cases / there should be 0 cases for fresh user ->Logout )</description>
+   <name>AddNewUser_VerifyCases</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13710866-c560-428c-b929-baa6cba7cb8d</testCaseGuid>
+</TestCaseEntity>

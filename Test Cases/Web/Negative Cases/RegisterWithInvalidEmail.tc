@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Give invalid/empty email id during signup and verify the error message</description>
+   <name>RegisterWithInvalidEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a58ab67-7008-4659-90d8-1fa15d2718c3</testCaseGuid>
+</TestCaseEntity>
