@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ViewCases</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81f3ad23-6617-4717-b9c8-183e94034b06</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f875824e-f48a-41e2-970c-537e74491b31</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'8f94fc64'</defaultValue>
+      <description></description>
+      <id>f875824e-f48a-41e2-970c-537e74491b31</id>
+      <masked>false</masked>
+      <name>loginid</name>
+   </variable>
+</TestCaseEntity>
